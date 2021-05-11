@@ -17,3 +17,6 @@
 
 
 It can be seen the stress concentration in the inner cilinder and the displacement in the middle part. The results are not accurate as we would have wanted.
+
+*UPDATE*
+We could solve the problem shortly after the due time of this asignment
