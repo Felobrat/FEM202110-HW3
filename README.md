@@ -6,8 +6,10 @@
 ![WhatsApp Image 2021-05-11 at 12 03 32 AM](https://user-images.githubusercontent.com/69157203/117756680-9d09de80-b1ec-11eb-89b1-3e3a40353630.jpeg)
 
 *GMSH STRESS*
-![WhatsApp Image 2021-05-10 at 11 55 46 PM](https://user-images.githubusercontent.com/69157203/117756021-6089b300-b1eb-11eb-977d-6a95faf222ea.jpeg)
+![WhatsApp Image 2021-05-11 at 12 06 43 AM (1)](https://user-images.githubusercontent.com/69157203/117756814-db9f9900-b1ec-11eb-8076-478637d47b81.jpeg)
+
 *Python Displacements*
-![Figure 2021-05-10 192953](https://user-images.githubusercontent.com/69157203/117756125-8f078e00-b1eb-11eb-8c9d-7fc5a16e85ff.png)
+![Figure 2021-05-10 192953](https://user-images.githubusercontent.com/69157203/117756943-15709f80-b1ed-11eb-9452-a7f6ac639b39.png)
+
 
 It can be seen the stress concentration in the inner cilinder and the displacement in the middle part. The results are not accurate as we would have wanted.
