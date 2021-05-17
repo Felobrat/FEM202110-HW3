@@ -15,7 +15,8 @@ The displacement of each mesh was:
 ![desplazamiento](https://user-images.githubusercontent.com/53713268/118559717-56f5d300-b736-11eb-849c-87ae766fb1ee.JPG)
 
 -Fine:
-[desplazamiento_fino](https://user-images.githubusercontent.com/53713268/118560661-d89a3080-b737-11eb-8c87-4a8c48dfcd8d.JPG)
+![desplazamiento_fino](https://user-images.githubusercontent.com/53713268/118569936-09369600-b749-11eb-82f3-e6a958c9fb2e.JPG)
+
 
 the stresses for sigmax was:
 - Coarse:
