@@ -30,5 +30,5 @@ the stresses for sigmax was:
 ![image](https://user-images.githubusercontent.com/53713268/118561323-d2f11a80-b738-11eb-8aed-439d54289325.png)
 
 
-For the nodal stress averingig we take a subsquare to calculated the stress in each point of gauss (4 for element) with this 4 point, we can calculated the influence of (triutary area) of each element wich use te node and influence it.
+For the nodal stress averaging we take a subsquare to calculated the stress in each point of gauss (4 for element) with this 4 point, we can calculated the influence of (triutary area) of each element wich use te node and influence it.
  
