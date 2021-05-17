@@ -5,7 +5,7 @@ inclugind the results of the 3 types of mesh, a fine, medium and coarse.
 ![deformada-media](https://user-images.githubusercontent.com/53713268/118559099-79d3b780-b735-11eb-8581-913ac16b9265.png)
 "The medium mesh from python"
 ![deformada-fina](https://user-images.githubusercontent.com/53713268/118559218-9b34a380-b735-11eb-971b-c372ea78ce3c.png)
-"The fine from python"\
+"The fine from python"
 The displacement of each mesh was:
 
 - Coarse:
