@@ -275,3 +275,5 @@ elements = np.array(Quadrangles)+1
 write_element_data("sigma_x_avg.msh", elements, sigmaxx, "Sigma_x" )
 write_element_data("sigma_y_avg.msh", elements, sigmayy, "Sigma_y" )
 write_element_data("sigma_xy_avg.msh", elements, sigmaxy, "Sigma_xy" )
+
+#fin
