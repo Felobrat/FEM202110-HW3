@@ -1,7 +1,7 @@
 import numpy as np
 from quad4_avg import quad4, quad4_post, quad_line_load
 
-fid = open("MODELO 2D.msh", "r")
+fid = open("MODELO 2D - grueso.msh", "r")
 
 LINE_ELEMENT = 1
 TRI_ELEMENTO = 2
@@ -237,10 +237,10 @@ from gmsh_post import write_node_data, write_node_data_2, write_element_data
 
 nodes = np.arange(1, Nnodes+1)
 
-#write_node_data("ux_avg.msh", nodes, uv[:,0], "Despl. X" )
-#write_node_data("uy_avg.msh", nodes, uv[:,1], "Despl. Y" )
-#
-#write_node_data_2("desplazamientos_avg.msh", nodes, uv[:,0], uv[:,1], "Despl" )
+write_node_data("ux_avg_grueso.msh", nodes, uv[:,0], "Despl. X" )
+write_node_data("uy_avg_grueso.msh", nodes, uv[:,1], "Despl. Y" )
+
+write_node_data_2("desplazamientos_avg_grueso.msh", nodes, uv[:,0], uv[:,1], "Despl" )
 
 #calculo de tensiones
 
@@ -272,6 +272,6 @@ for e in Quadrangles:  #ingresa cada elemento e con su respecitov ke, fe y lo en
 
 
 elements = np.array(Quadrangles)+1
-#write_element_data("sigma_x_avg.msh", elements, sigmaxx, "Sigma_x" )
-#write_element_data("sigma_y_avg.msh", elements, sigmayy, "Sigma_y" )
-#write_element_data("sigma_xy_avg.msh", elements, sigmaxy, "Sigma_xy" )
+write_element_data("sigma_x_avg_grueso.msh", elements, sigmaxx, "Sigma_x" )
+write_element_data("sigma_y_avg_grueso.msh", elements, sigmayy, "Sigma_y" )
+write_element_data("sigma_xy_avg_grueso.msh", elements, sigmaxy, "Sigma_xy" )
